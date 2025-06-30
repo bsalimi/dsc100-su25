@@ -10,18 +10,18 @@ Databases are at the heart of modern commercial application development. Their u
 
 The course begins with an overview of course organization and an introduction to the relational data model, followed by lessons on SQL basics and different types of joins in SQL. In the following weeks, students will learn advanced SQL queries, formal query languages, and query evaluation. The course also covers topics related to data storage and indexing, including hard‑disk and file organization, index organization, and creating indexes in SQL. In the latter half of the course, students will study NoSQL databases, conceptual design, integrity constraints, and design theory, culminating in a discussion of normal forms. The course includes a discussion of data quality, including techniques for dealing with missing data and entity deduplication. Upon completing the course, students will be equipped with the skills and knowledge necessary for designing, querying, and maintaining a relational database.
 
----
 ## Instructional Team
-| Role | Name | Contact |
-|------|------|---------|
-| **Instructor** | [Babak Salimi](https://bsalimi.github.io/) | bsalimi@ucsd.edu |
-| **Teaching Assistant** | **Haoquan Guan** | h3guan@ucsd.edu |
 
-### Office Hours (Zoom — links on Canvas)
-| Person | Day | Time (PT) |
-|--------|-----|-----------|
-| Babak Salimi | Wednesday | 4 – 5 p.m. |
-| Haoquan Guan | Tuesday   | 2 – 3 p.m. |
+- **Instructor**: [Babak Salimi](https://bsalimi.github.io/)  
+  Contact: bsalimi@ucsd.edu
+
+- **Teaching Assistant**: Haoquan Guan  
+  Contact: h3guan@ucsd.edu
+
+### Office Hours (Zoom — links on Canvas)
+
+- **Babak Salimi**: Wednesdays, 4–5 p.m. PT  
+- **Haoquan Guan**: TBD
 
 ---
 ## Delivery & Communication
