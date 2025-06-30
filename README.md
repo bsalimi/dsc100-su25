@@ -1,101 +1,126 @@
 ![The_Data_Lifecycle](fig/The_Data_Lifecycle.jpeg)
 
-#   DSC 100: Introduction to Data Management
+# DSC 100: Introduction to Data Management  
+**Summer Session I 2025 — Fully Remote & Asynchronous (all lectures pre‑recorded)**  
+
+---
+## Description
+
+Databases are at the heart of modern commercial application development. Their use extends beyond this to many other environments and domains where large amounts of data must be stored for efficient update, retrieval, and analysis. This course provides a comprehensive introduction to data management, covering topics such as the relational data model, SQL, formal query languages, query evaluation, data storage and indexes, NoSQL databases, conceptual design, integrity constraints, design theory, normal forms, and data quality. Through **pre‑recorded video lectures**, demos, and hands‑on exercises, students will gain a strong foundation in database‑management concepts and practices, with a focus on the use of SQL and the relational model.
+
+The course begins with an overview of course organization and an introduction to the relational data model, followed by lessons on SQL basics and different types of joins in SQL. In the following weeks, students will learn advanced SQL queries, formal query languages, and query evaluation. The course also covers topics related to data storage and indexing, including hard‑disk and file organization, index organization, and creating indexes in SQL. In the latter half of the course, students will study NoSQL databases, conceptual design, integrity constraints, and design theory, culminating in a discussion of normal forms. The course includes a discussion of data quality, including techniques for dealing with missing data and entity deduplication. Upon completing the course, students will be equipped with the skills and knowledge necessary for designing, querying, and maintaining a relational database.
+
+---
+## Instructional Team
+| Role | Name | Contact |
+|------|------|---------|
+| **Instructor** | [Babak Salimi](https://bsalimi.github.io/) | bsalimi@ucsd.edu |
+| **Teaching Assistant** | **Haoquan Guan** | h3guan@ucsd.edu |
+
+### Office Hours (Zoom — links on Canvas)
+| Person | Day | Time (PT) |
+|--------|-----|-----------|
+| Babak Salimi | Wednesday | 4 – 5 p.m. |
+| Haoquan Guan | Tuesday   | 2 – 3 p.m. |
+
+---
+## Delivery & Communication
+- **Lectures:** Fully asynchronous. New video modules released **Mondays–Thursdays at 09:00 PT** (see calendar).  
+- **Discussion / Q&A:** Piazza — <https://piazza.com/ucsd/summer2025/dsc100> (access code on Canvas).  
+- **Submissions & Exams:** Canvas.  
+- **Announcements:** via Canvas — please enable notifications.
+
+---
+## Course Workload *(subject to change)*
+* **Homework (30 %)** — weekly written/programming assignments (25 %) + web‑quizzes (5 %). Teams of ≤ 2. Three 24‑hour late‑day tokens (max 1 per assignment).
+* **Midterm (20 %)** — covers material through Formal Query Languages; remote **Wed 16 Jul 2025, 14:00 – 16:00 PT**.
+* **Final Exam (50 %)** — comprehensive; remote **Sat 02 Aug 2025, 15:00 – 17:59 PT**.
+
+---
+## Important Summer‑I Dates
+| Date | Event |
+|------|-------|
+| Mon 30 Jun 2025 | Instruction begins |
+| Fri 04 Jul 2025 | **Independence Day holiday** — no new content |
+| Wed 16 Jul 2025 | Remote Midterm (14:00–16:00 PT) |
+| Fri 01 Aug 2025 | Instruction ends |
+| Sat 02 Aug 2025 | Remote Final Exam (15:00–17:59 PT) |
+
+*(All assignment due dates appear on the Canvas calendar.)*
 
 
 
-## Description:
-
-Databases are at the heart of modern commercial application development. Their use extends beyond this to many other environments and domains where large amounts of data must be stored for efficient update, retrieval, and analysis. The purpose of this course is to provide a comprehensive introduction to the use of management systems for applications. Some topics covered are the following: data models, query languages, query evaluation and optimisation,  database design and transactions. 
 
 
+---
+## Full Summer Calendar & Resources *(subject to change)*
 
-## Instructional team:
+> **Video Link:** placeholder to be updated once recordings are uploaded.
 
-**Instructor:**
-
-[Babak Salimi](https://bsalimi.github.io/), bsalimi@ucsd.edu
-
-**Course Assistants:**
-
-
-
-**Lectures**:
-
-The lecture for this class will be ASYNCHRONOUS. 
-
-
-**Office Hours:**
-
-
-
-**Note:** Office hours will be held via Zoom. 
-
-
-
-**Piazza:** [link](https://piazza.com/ucsd/summer2025/dsc100) (Requires access code posted on Canvas)
-
-**Have questions? Please email both Babak Salimi (bsalimi@ucsd.edu) and one of the TAs for questions on logistics. All other questions SHOULD be discussed on Piazza.**
-
+| Week | Lecture Date (2025) | Course Topic | Lecture Description | Assignments / Deadlines | Slides / Demos | Discussion | Optional Reading | Lecture Motivation | **Video Link** |
+|------|---------------------|--------------|---------------------|-------------------------|----------------|------------|------------------|-------------------|---------------|
+| **1** | **Mon Jun 30** | Course organization & Introduction | Covers syllabus, grading, course materials, and the role of databases in modern society. | **HW 1 released** (SQLite & SQL Basics) | [Slide-Part 1](https://drive.google.com/file/d/10Ts2iRj7IBpWQkwxa07vRdT7czFcfmQs/view?usp=sharing) . [Slide-Part 2](https://drive.google.com/file/d/104OGPAmhHFlfDM_1MJ9ChH5tDz7xtfEz/view?usp=sharing)  . [Slide-Part 3](https://drive.google.com/file/d/10X1VrgLcrKPssW1w48ThejDb3ieedCnJ/view?usp=sharing) | — | *Textbook* §2.1 / *Blog* [Data Management 101](https://www.tableau.com/learn/articles/what-is-data-anagement#:~:text=Data%20management%20helps%20minimize%20potential,market%20changes%20and%20customer%20needs.) | Course goals & objectives. |  [Recording-Part 1](https://drive.google.com/file/d/1l85Hy_nIcxMXem62dKVWz2PxsfPg1IHV/view?usp=sharing) [Recording-Part 2](https://drive.google.com/file/d/10CqTVmNFQNwtrdfFIg73DgLcvsDvt20j/view?usp=sharing) [Recording-Part 3](https://drive.google.com/file/d/10IpNPfkfWf33XZOAcuYSvbzUqGs6QaoV/view?usp=sharing) [Slide-Part 4](https://drive.google.com/file/d/10ZB4yHge97742CVLUa_yWgKxbLCGIch_/view?usp=sharing) [Recording-Part 4](https://drive.google.com/file/d/10DfiDpHk1jESO6f5r3VnTK20iegqLT2t/view?usp=sharing) [Demo 1](https://drive.google.com/file/d/1-iCciQ_A6DI_gQR1KLFf196axsJpbM3n/view?usp=sharing) [Source](https://drive.google.com/file/d/1-jtOOESAnOPfDDShXydoQQayLQMxI7YN/view?usp=sharing)   |
+| | **Tue Jul 1** | Relational Data Model | Introduces tables, keys, DataFrame connection; SQLite demo. | Web Quiz 1 released | [SQL_Basics.pdf](https://drive.google.com/file/d/1NOftxlPRxpkZNRug0gODZkUCRGA4StCA/view?usp=sharing) | — | — | Foundation for DB work. | `[TBD]` |
+| | **Wed Jul 2** | Joins in SQL Part 1 | Inner, outer, cross joins; combining tables. | — | same slides | — | — | Combines multi‑table info. | `[TBD]` |
+| | **Thu Jul 3** | Joins in SQL Part 2 | Practical join patterns; SQLite demo. | — | [Joins.pdf](https://drive.google.com/file/d/1sixL7Ud7yYNQBSivSoJF8R5eAzFfz3kZ/view) | — | — | Mastering joins. | `[TBD]` |
+| **2** | **Mon Jul 7** | Grouping & Aggregation | GROUP BY, HAVING, analytics demo. | **Web Quiz 1 due** (Sun 23:59); **Web Quiz 2 released** | [Grouping demo](https://colab.research.google.com/drive/1tv0zwEQh8bUIinqQhW0gzrjyx3loBHfT?usp=sharing) | — | — | Summarizing data. | `[TBD]` |
+| | **Tue Jul 8** | Advanced SQL Queries Part 1 | Nested & correlated queries. | — | [Agg & Grouping slides](https://drive.google.com/file/d/1yLEqcT0urui7Ens7f_wXj2mOoKwtcEJ4/view?usp=sharing) · [Demo](https://drive.google.com/file/d/1oD6reMIaQK4eovqwecS--6z13UcxOFdu/view) | — | — | Complex querying. | `[TBD]` |
+| | **Wed Jul 9** | Advanced SQL Queries Part 2 | Expression quantifiers; monotone vs non‑monotone. | **HW 1 due**; **HW 2 released** | [Nested Queries](https://drive.google.com/file/d/1eKUUFnwstPUVkqj7Q08mXYkdQgEjGNkR/view) | — | — | Deeper SQL logic. | `[TBD]` |
+| | **Thu Jul 10** | Set Operations in SQL | UNION, INTERSECT, EXCEPT. | Web Quiz 3 released; **HW 3 released** | [Set Operations](https://drive.google.com/file/d/1gPbR--RJz2asCqTP0wn5Kf7P3EnLQbOh/view) | — | — | Combining result sets. | `[TBD]` |
+| **3** | **Mon Jul 14** | Formal Relational Query Languages Part 1 | Basics of relational algebra & links to SQL/DataFrames. | **Web Quiz 2 due**; **Web Quiz 4 released** | [Formal QL slides](https://drive.google.com/file/d/1z67dErSbW5z-5HIoJLmRwXKeHzYuy8Ue/view?usp=sharing) · [Demo](https://colab.research.google.com/drive/1C6BbngbKD_Hxsty4WE_e7kCwrGVmiTa5?usp=sharing) | — | — | Understand DB internals. | `[TBD]` |
+| | **Tue Jul 15** | Formal Relational Query Languages Part 2 | Continued algebra→SQL mapping. | — | same | — | — | — | `[TBD]` |
+| | **Wed Jul 16** | Interactive Data Analysis Using SQL | Live notebook demo for exploratory analysis. | **Remote Midterm 14:00–16:00 PT** | — | — | — | Hands‑on skills. | `[TBD]` |
+| | **Thu Jul 17** | Data Storage, Indexes & Size Estimation Part 1 | Disks, files, clustered/unclustered indexes. | — | [Storage Slides](https://drive.google.com/file/d/1JJApnoiAHcVYQy-D6Hu0rUoPL61mv_fA/view) · [Demo](https://colab.research.google.com/drive/1Fw5r2I1RnkM1ZKYXyo2j6u2Xn5RbIsPL?usp=sharing) | — | — | Performance fundamentals. | `[TBD]` |
+| **4** | **Mon Jul 21** | Data Storage, Indexes & Size Estimation Part 2 | Creating indexes in SQL; cost estimation. | **Web Quiz 3 due**; **HW 2 due** | same | — | — | Query optimization. | `[TBD]` |
+| | **Tue Jul 22** | Recursive Queries & Conceptual Design | ER modeling & recursion. | **Web Quiz 5 released** | [ER Slides](https://drive.google.com/file/d/1D9O798xF5KuL4z4a-1uT5vvdP6CPoxa7/view?usp=sharing) · [Demo](https://colab.research.google.com/drive/1Fw5r2I1RnkM1ZKYXyo2j6u2Xn5RbIsPL?usp=sharing) | — | — | Structuring DBs. | `[TBD]` |
+| | **Wed Jul 23** | Design Theory | Functional dependencies, closure algorithm. | **HW 3 due**; **HW 4 released** | [Design Theory](https://drive.google.com/file/d/10sLHofXYuA_DjagNRjsY_IbMqSUbl-BZ/view) · [ER Diagrams](https://drive.google.com/file/d/1ps1fVNFHevJYTzeb3eEL5P15xrLHv5hy/view) · [Demo](https://colab.research.google.com/drive/1fbZSoemx3jOK2fo_veEr6bPSEnKNm-fH?usp=sharing) | — | — | Basis for normalization. | `[TBD]` |
+| | **Thu Jul 24** | Normal Forms | BCNF, integrity & performance. | Web Quiz 6 released | [BCNF Slides](https://drive.google.com/file/d/1ptC4KwaKSpuWa4pQB7ovKVgPk7jHzAcB/view) | — | — | Redundancy‑free schema. | `[TBD]` |
+| **5** | **Mon Jul 28** | Normal Forms (continued) | More BCNF examples & practice. | **Web Quiz 4 due**; **HW 4 due** | same | — | — | — | `[TBD]` |
+| | **Tue Jul 29** | Final Exam Review | Comprehensive walkthrough & Q&A. | — | — | Live Piazza session | — | Prepare for final. | `[TBD]` |
+| | **Sat Aug 02** | **FINAL EXAM** | Remote‑proctored, comprehensive. | 15:00 – 17:59 PT | — | — | — | — | — |
 
 
-## **Calender:**
+## Grading Scheme
 
-| Date |           Description           | Discussions | Remarks** | Lectures | **Optional Reading** |
-| :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
-|  September 22   | Introduction  |  |       | [Introduction](https://drive.google.com/file/d/1pQB7FZI2tlW_nvJr_jQ2qdU_U6GaF1dd/view?usp=sharing) | |
-|  September 27   | Relational Data Model |   |  Homework 1: SQLITE and SQL Basics (released)    | [Data Models](https://drive.google.com/file/d/1pSuZ93Lr9bnfwIz_Yf3S2pbk-RQpISGB/view?usp=sharing) [Demo](https://drive.google.com/file/d/1QMaUIn5CEXc12PzHqc1zi2y5ckAiGSQ9/view?usp=sharing) | Sec. 2.1, 2.2, 2.3 |
-|  September 29   | SQL Basics |  [SQL Intro Discussion](https://drive.google.com/file/d/18xJ4yL8ppvKclyjeExcsPJ8bNC_87Pas/view?usp=sharing) |  WQ1: Data Models and Simple SQL (released)    | [SQL Basics](https://drive.google.com/file/d/1rh1N9CjmJ3kl1Z3TO-RZKDtWMaAy86Bb/view?usp=sharing) [Demo](https://drive.google.com/file/d/1rVmq1wmhTSX-BhPyeAoMfA6WzVRm-2C9/view?usp=sharing) |  |
-|October 04   | Joins  |  |       | [Joins](https://drive.google.com/file/d/1X-mmtFLGfBWT6_9nZGn-qbnRc40qZaYI/view?usp=sharing) [demo](https://drive.google.com/file/d/1XD7KWFOlzPU5eLDd-vrVTz-plcWD7M6-/view?usp=sharing) |
-October 06   | Grouping and Aggregation  | [SQL Group and Aggregation](https://drive.google.com/file/d/1a4LIUbGWmMISF8AE5TvSLW_zi_xEArUl/view?usp=sharing) |       | [Grouping and Aggregation](https://drive.google.com/file/d/1vrK4KyrBIk3P-g_FPGfJ_J0Lb91lu98v/view?usp=sharing) [Demo](https://drive.google.com/file/d/1X53PbcIUrNSM5uuj8_4JI5UsC7FiEAgr/view?usp=sharing) [Data](https://drive.google.com/file/d/1vj9WdBOjQ-na8hCPGgDDFdTq-tA9_eTD/view?usp=sharing) | Sec. 6.1, 6.2|
-October 11   | Nested SQL Queries and Set Operations |  |       | [Nested SQL Queries ](https://drive.google.com/file/d/1w0yMi1cEClMT8ytGyiCKLOWG7xKT-Z3J/view?usp=sharing)  | |
-October 13   | Nested SQL Queries and Set Operations | [Nested Queries](https://cdn-uploads.piazza.com/paste/ktv2glv31db547/cff1ab69875ed36d6c5c73193c50271f13adbf4f8813d0e50f42a4f86774e51e/Discussion_Section3.pdf) |       | [Set Operations](https://drive.google.com/file/d/1w1Xz2mU5rqqH5jkq59abOPXDQNHmcfjk/view?usp=sharing) [Demo](https://drive.google.com/file/d/1w66L9F-HQB_MpFYUWtainh9IG0ZsXvag/view?usp=sharing) [Data](https://drive.google.com/file/d/1wVWVcHZyw5Zp1dFpruoGbktuk-gS0DVf/view?usp=sharing)  | |
-| October 18    | Formal Query Languages (Part 1)  |  |       | [Formal Query Langaues](https://drive.google.com/file/d/1x-s7CQgRJem5ZMFn2Wy_p1hsRgRCAXaA/view?usp=sharing) | |
-| October 20    | Formal Query Languages (Part2)  |[Discussion:Midterm Sample Questions](https://drive.google.com/file/d/15K00TrHQqTz0vF_GhNAU_WBn__VWebf_/view?usp=sharing)  |       | [Formal Query Langaues](https://drive.google.com/file/d/1x-s7CQgRJem5ZMFn2Wy_p1hsRgRCAXaA/view?usp=sharing) | |
-| October 25    | Midterm  | [Midterm](https://drive.google.com/file/d/1DHbwxQhtlnIfDVsxxmfNVl2Nc9TUs95s/view?usp=sharing) |       |  | |
-| October 27    | Query Evaluation  | [Relational Algebra, Algebra of Bags](https://drive.google.com/file/d/1ysPUiwmWr4orL7o_T2SEkip5mBAYT8aL/view?usp=sharing) |       | [Slides](https://drive.google.com/file/d/1-txCsFSltz3bCZ1XzzHgZvVEkIOHVbqq/view?usp=sharing) [Video](https://drive.google.com/file/d/1bbTUvQhk7y0rPQj07m0fh31sTSJxTPpG/view?usp=sharing) | |
-| November 1    | Basics of Data Storage and Indexes (Part 1)  | [Indexes Discussion](https://drive.google.com/drive/folders/1hVuBhv1L1QLwrOlukATRKp_7FkJ8Rt0U?usp=sharing) |       | [Slides](https://drive.google.com/file/d/105MgPTw9R8xg9qbkBQu3cU6ayZ619RTN/view?usp=sharing) [Video](https://drive.google.com/file/d/109SVKzUmj5kJyBYIylO0xBp3ptNHBE7e/view?usp=sharing) | |
-| November 3    | Basics of Data Storage and Indexes (Part 2)  |  |       | [Slides](https://drive.google.com/file/d/108kJ0W_cY0GH9ILHPXI4lG9n2OJHmLq1/view?usp=sharing) [Video](https://drive.google.com/file/d/10DYoOZ--vFSQstAxFfRclnDFPrbV_hbo/view?usp=sharing) | |
-| November 8    | Conceptual Design | [Conceptual Design,ER Diagram](https://drive.google.com/file/d/17aNQKBjaigojCRg8Du4mraiEbG-UtXj-/view) |       | [Slides](https://drive.google.com/file/d/1VhaKeCqsdfCOsOjyUFb7IJUPMRrj4G-O/view?usp=sharing) [Video](https://drive.google.com/file/d/1Sl94noI8lRrt_jCNRNrD5lHFVEnsfKJB/view?usp=sharing)  | Sec. 4.1-4.6
- November 10    |Integrity Constraints|  |       |[Slides](https://drive.google.com/file/d/118dUFs5kPIprTBkqkia_ofForz8E6kVf/view?usp=sharing)   | 
-| November 14    | Design Theory |  |       | [Slides](https://drive.google.com/file/d/152-0oCVXgGrF95w5TfvevTvkJBB-U-LA/view?usp=sharing)  |
-| November 17    | Normal Forms |[Discussion: Database Design Theory and BCNF](https://drive.google.com/file/d/18pLhCMaIeXg0kdseO2QJix62qaIXtBFH/view?usp=sharing)  |       | [Slides](https://drive.google.com/file/d/1-e5gZOyYBa1y1gjqGgBvYkmAIu9ZRR5_/view?usp=sharing)  |
-| November 22    | NoSQL Databases |  |       | [Slides](https://drive.google.com/file/d/15CRz9yUweEs0c6oFGnxti8YZcDc2fHxq/view?usp=sharing)  |
-| November 29    | Basics of Data Cleaning |  |       | [Slides](https://drive.google.com/file/d/15PMKHzPh_VPCTiHDUGBmyX3-bSMPO8QY/view?usp=sharing)  |
+The grading scheme is a hybrid of absolute and relative grading. The absolute cutoffs are based on your absolute total score. The relative bins are based on your position in the total score distribution of the class. The better grade among the two (absolute-based and relative-based) will be your final grade.
+
+| Grade | Absolute Cutoff (>=) | Relative Bin (Use strictest) |
+|-------|----------------------|-------------------------------|
+| A+    | 97                   | Highest 5%                    |
+| A     | 94                   | Next 10% (5-15)               |
+| A-    | 91                   | Next 15% (15-30)              |
+| B+    | 85                   | Next 15% (30-45)              |
+| B     | 80                   | Next 15% (45-60)              |
+| B-    | 70                   | Next 15% (60-75)              |
+| C+    | 65                   | Next 5% (75-80)               |
+| C     | 60                   | Next 5% (80-85)               |
+| C-    | 55                   | Next 5% (85-90)               |
+| D     | 50                   | Next 5% (90-95)               |
+| F     | < 50                 | Lowest 5%                     |
 
 
-*Note:*  Some slides are adopted from the UW database group. 
+## Textbook
 
-
-## Workload:
-
-**(subject to change)**
-
-**Homework (60%):** There will be **weekly homeworks**. They will be based on the last 1-2 lectures. They are of two types:
-
-1. **Written problem-solving and programming assignments (50%):**
-   Start early and allocate enough time to solve these problems! 
-2. **Gradiance exercises (10%):**
-   [Gradiance](https://www.gradiance.com/) is an online service pioneered by one of the authors of the textbook, Prof. Jeffrey Ullman at Stanford. One of the best features of Gradiance is that you are permitted to test yourself on a particular topic as many times as you like. You receive immediate feedback for each attempt, which avoids the shortcoming of the traditional submit-and-then-wait-for-grades assignments where one error in understanding can permeate solutions to multiple problems and does not get rectified until much later. We encourage you to continue testing on each topic until you complete the part of the assignment with a 100% score. The highest score will be recorded. The questions will be the same in every attempt, but the answer choices will be selected at random. 
-3. **Midterm (15%)** and **final  (25%)**: Details would be posted later.
-5. **Extra Credit**: 
-
-   - Some howmeworks have extra credit questions.
-
-   - Large number of good answers on Piazza.  
-
-## Resources / Communication / Toolkits:
-
-**Book:** Although a textbook is not required in the course, the following textbook is optional and recommended. Lecture slides and recorded videos would be sufficient for this class.
+Although a textbook is not required in the course, the following textbook is optional and recommended. Lecture slides and recorded videos would be sufficient for this class.
 
 Database Systems: The Complete Book, by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom. 2nd Edition. Prentice Hall. 2008.
 
-**Canvas:** All weekly homework assignments should be turned in via Canvas.
+## Canvas
 
-**Communication and Piazza:**  All important announcements will be sent through both Piazza.
+All weekly homework assignments and web quizzes should be turned in via Canvas.
 
-All questions that may be of general interest to the class should be directed to Piazza. You will get your questions answered faster on Piazza than via personal emails to the instructional team, because Piazza is monitored closely by everybody in the class, not just the course staff. You are highly encouraged to answer each others' questions on Piazza (*you will get extra credit for # of good answers on Piazza!*) and the instructional team would endorse/add to those answers.
+## Communication
 
+All important announcements will be sent through Canvas.
+
+## Piazza
+
+All questions that may be of general interest to the class should be directed to Piazza. You will get your questions answered faster on Piazza than via personal emails to the instructional team, because Piazza is monitored closely by everybody in the class, not just the course staff. You are highly encouraged to answer each other's questions on Piazza (you will get extra credit for the number of good answers on Piazza!) and the 
+instructional team would endorse/add to those answers.
+
+
+
+*Note:*  Some slides are adopted from the UW database group. 
 
 
 ## Related Groups:
@@ -111,3 +136,4 @@ All questions that may be of general interest to the class should be directed to
 - [ICDT(IEEE International Conference on Data Engineering)](http://ieee-icde.org/)
 
 - [CIDR (Conference on Innovative Data Systems Research)](http://www.google.com/url?q=http%3A%2F%2Fcidrdb.org%2F&sa=D&sntz=1&usg=AFQjCNHZ5MTU545Lei9xcYfQR9fHHLan5w)
+
