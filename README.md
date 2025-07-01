@@ -59,15 +59,14 @@ The course begins with an overview of course organization and an introduction to
 | Week |           Description           | Discussions | **Assignments / Remarks** | Lectures | **Optional Reading** |
 | :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
 |  1   | Intro, Data models, SQL | |       | [Slides and Recordings](Lectures/lec01.md) | Sec. 2.1, 2.2, 2.3 |
-|     |   Join and Aggregates in SQL    | SQL practice [Source](https://drive.google.com/file/d/1X36eBYnQMxogYF5CwWzA3il-Ao7xREtV/view?usp=sharing), [Recording](https://drive.google.com/file/d/11RqJk7MJBxEjcF_kgNONM5NC06p88u0O/view?usp=sharing) | WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite | [Slides and recordings](./Lectures/lec02.md) | Sec. 6.1, 6.2 |
-|  2   | Advanced SQL |  | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates | [Slides and recordings](./Lectures/lec03.md) |  |
-|     |  Relational Algebra  |  |  | [Slides and recordings](./Lectures/lec04.md) |  |
-| 3  |        Midterm        | Exam practice [Recording](https://drive.google.com/file/d/12PpW9o4fhKMvZrlc4WHSova-rd20gSd4/view?usp=sharing) | HW3 due: Advanced SQL |  |  |
+|     |   Join and Aggregates in SQL    | SQL practice [Source](https://drive.google.com/file/d/1X36eBYnQMxogYF5CwWzA3il-Ao7xREtV/view?usp=sharing), [Recording](https://drive.google.com/file/d/11RqJk7MJBxEjcF_kgNONM5NC06p88u0O/view?usp=sharing) | | [Slides and recordings](./Lectures/lec02.md) | Sec. 6.1, 6.2 |
+|  2, 3   | Advanced SQL |  |   WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite   | [Slides and recordings](./Lectures/lec03.md) |  |
+|     |  Relational Algebra  |  | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates  | [Slides and recordings](./Lectures/lec04.md) |  |
+| 4  |        Midterm        | Exam practice [Recording](https://drive.google.com/file/d/12PpW9o4fhKMvZrlc4WHSova-rd20gSd4/view?usp=sharing) | HW3 due: Advanced SQL |  |  |
 |    | Query Evaluation, Basics of Data Storage and Indexes | Midterm solutions [Recording](https://drive.google.com/file/d/1m-bwbCdi0Y_qkWXQZwzSbJLhuOEcMsL6/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec06.md) |  |
-|  4   |         Cost Estimation <br /> NoSQL Databases         | Indexes and Cost Estimation [Source](https://docs.google.com/document/d/1QuVwn00LeX-4E4oRlV2mb5YjeUqvPV9WNKAAraQHiTY/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1kyflzyQ2fNcT788px22lzQdJfTl1iN46/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec07.md) |  |
+|  5   |         Cost Estimation <br /> NoSQL Databases         | Indexes and Cost Estimation [Source](https://docs.google.com/document/d/1QuVwn00LeX-4E4oRlV2mb5YjeUqvPV9WNKAAraQHiTY/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1kyflzyQ2fNcT788px22lzQdJfTl1iN46/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec07.md) |  |
 |     | Conceptual Design | Homework Solutions |  | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6 |
-|  5  | BCNF, Transactions | Conseuptual Design practice [Source](https://drive.google.com/file/d/1ocF-qNILFQxcO8TYlTysBqkUToaGmoJu/view?usp=sharing) [Recording](https://drive.google.com/file/d/152DZHeLlKlEXD8i32Ts9XD8CPt7LmQPs/view?usp=sharing) | WQ4 due: RA and Conceptual Design <br />HW4 due: Conceptual Design | [Slides and recordings](./Lectures/lec09.md) |  |
-| | Transactions | Transactions practice: [Source](https://drive.google.com/file/d/1LlLhfbfzvVQGwzabe4acuSg5WE2ijc3O/view?usp=sharing) [Recording](https://drive.google.com/file/d/1-vTscJ80fV_IuXFDVbrOjRDntH8JzXSx/view?usp=sharing)   final Exam: |  | [Slides and recordings](./Lectures/lec10.md) |  |
+|    | BCNF, Transactions | Conseuptual Design practice [Source](https://drive.google.com/file/d/1ocF-qNILFQxcO8TYlTysBqkUToaGmoJu/view?usp=sharing) [Recording](https://drive.google.com/file/d/152DZHeLlKlEXD8i32Ts9XD8CPt7LmQPs/view?usp=sharing) | WQ4 due: RA and Conceptual Design <br />HW4 due: Conceptual Design | [Slides and recordings](./Lectures/lec09.md) |  |
 
 
 ## Grading Scheme
