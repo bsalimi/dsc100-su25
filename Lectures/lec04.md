@@ -1,8 +1,8 @@
 ### Lecture 04
 
-- Relational Algebra- Part 1 : [Slides](https://drive.google.com/file/d/1RLetSDwvr44UCY8j4TcZCzeZS5lCaRrn/view?usp=sharing) ,  [Recording](https://drive.google.com/file/d/1AYzFGH4NG8468dZ5Ha7DYdiCPN8Ycq0N/view?usp=sharing)
+- Relational Algebra- Part 1 : [Slides](https://docs.google.com/presentation/d/173xazzTQtTx7iFA9Y-lQEm6CbyViZdQJ/edit?usp=sharing&ouid=113695856207302422573&rtpof=true&sd=true) ,  [Recording](https://drive.google.com/file/d/1hbjdYpOJdnwQxFQimrhDyIOVgIDmT5ds/view?usp=sharing)
 
-- Relational Algebra- Part 2: [Slides](https://drive.google.com/file/d/1YlUv9mhXp62kg_52sFp4j4AP0RwAumKZ/view?usp=sharing) ,  [Recording](https://drive.google.com/file/d/10jHSKx6ppv0ZF7dSeTwSyfZAh1tvv-di/view?usp=sharing)
+- Relational Algebra- Part 2: [Slides](https://docs.google.com/presentation/d/1E5HQY6Aa7AW1l1oiNJTOe39TCGVgRb-P/edit?usp=sharing&ouid=113695856207302422573&rtpof=true&sd=true) ,  [Recording](https://drive.google.com/file/d/1amC1ZeE3PwlN3PmfJ1ErH1k75_r9GnVR/view?usp=sharing)
 
   
 
