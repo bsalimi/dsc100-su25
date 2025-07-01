@@ -41,7 +41,7 @@ The course begins with an overview of course organization and an introduction to
 
 - **Mon 30 Jun 2025**: Instruction begins  
 - **Fri 04 Jul 2025**: **Independence Day holiday** — no new content  
-- **Wed 16 Jul 2025**: Remote Midterm (14:00–16:00 PT)  
+- **TBD**: Remote Midterm (14:00–16:00 PT)  
 - **Fri 01 Aug 2025**: Instruction ends  
 - **Sat 02 Aug 2025**: Remote Final Exam (15:00–17:59 PT)  
 
