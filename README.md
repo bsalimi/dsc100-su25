@@ -32,16 +32,18 @@ The course begins with an overview of course organization and an introduction to
 
 ---
 ## Course Workload *(subject to change)*
-* **Homework (30 %)** — weekly written/programming assignments (25 %) + web‑quizzes (5 %). Teams of ≤ 2. Three 24‑hour late‑day tokens (max 1 per assignment).
-* **Midterm (20 %)** — covers material through Formal Query Languages; remote **Wed 16 Jul 2025, 14:00 – 16:00 PT**.
-* **Final Exam (50 %)** — comprehensive; remote **Sat 02 Aug 2025, 15:00 – 17:59 PT**.
+Course Workload (subject to change)
+Homework (50 %) — written/programming assignments (45 %) + web‑quizzes (5 %). Teams of ≤ 2 allowed. Three 24‑hour late‑day tokens (max 1 per assignment).
+
+Midterm — No formal exam; practice questions will be provided for self-assessment.
+
+Final Exam (50 %) — comprehensive; remote Sat 02 Aug 2025, 15:00 – 17:59 PT.
 
 ---
 ## Important Summer‑I Dates
 
 - **Mon 30 Jun 2025**: Instruction begins  
 - **Fri 04 Jul 2025**: **Independence Day holiday** — no new content  
-- **TBD**: Remote Midterm (14:00–16:00 PT)  
 - **Fri 01 Aug 2025**: Instruction ends  
 - **Sat 02 Aug 2025**: Remote Final Exam (15:00–17:59 PT)  
 
@@ -62,7 +64,7 @@ The course begins with an overview of course organization and an introduction to
 |     |   Join and Aggregates in SQL    | SQL practice [Source](https://drive.google.com/file/d/1X36eBYnQMxogYF5CwWzA3il-Ao7xREtV/view?usp=sharing), [Recording](https://drive.google.com/file/d/11RqJk7MJBxEjcF_kgNONM5NC06p88u0O/view?usp=sharing) | | [Slides and recordings](./Lectures/lec02.md) | Sec. 6.1, 6.2 |
 |  2, 3   | Advanced SQL |  |   WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite   | [Slides and recordings](./Lectures/lec03.md) |  |
 |     |  Relational Algebra  |  | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates  | [Slides and recordings](./Lectures/lec04.md) |  |
-| 4  |        Midterm        | Exam practice [Recording](https://drive.google.com/file/d/12PpW9o4fhKMvZrlc4WHSova-rd20gSd4/view?usp=sharing) | HW3 due: Advanced SQL |  |  |
+| 4  |       Midterm: Practice questions only – no formal exam will be administered       | Exam practice [Recording](https://drive.google.com/file/d/12PpW9o4fhKMvZrlc4WHSova-rd20gSd4/view?usp=sharing) | HW3 due: Advanced SQL |  |  |
 |    | Query Evaluation, Basics of Data Storage and Indexes | Midterm solutions [Recording](https://drive.google.com/file/d/1m-bwbCdi0Y_qkWXQZwzSbJLhuOEcMsL6/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec06.md) |  |
 |  5   |         Cost Estimation <br /> NoSQL Databases         | Indexes and Cost Estimation [Source](https://docs.google.com/document/d/1QuVwn00LeX-4E4oRlV2mb5YjeUqvPV9WNKAAraQHiTY/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1kyflzyQ2fNcT788px22lzQdJfTl1iN46/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec07.md) |  |
 |     | Conceptual Design | Homework Solutions |  | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6 |
