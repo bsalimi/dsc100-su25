@@ -23,7 +23,7 @@ The course begins with an overview of course organization and an introduction to
 - **Babak Salimi**: Wednesdays, 4–5 p.m. PT  
 - **Haoquan Guan**: TBD
 
----
+---	
 ## Delivery & Communication
 - **Lectures:** Fully asynchronous. New video modules released **Mondays–Thursdays at 09:00 PT** (see calendar).  
 - **Discussion / Q&A:** Piazza — <https://piazza.com/ucsd/summer2025/dsc100> (access code on Canvas).  
