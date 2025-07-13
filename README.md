@@ -21,7 +21,7 @@ The course begins with an overview of course organization and an introduction to
 ### Office Hours (Zoom — links on Canvas)
 
 - **Babak Salimi**: Wednesdays, 4–5 p.m. PT  
-- **Haoquan Guan**: TBD
+- **Haoquan Guan**: Thursdays, 3-4 p.m. PT
 
 ---	
 ## Delivery & Communication
