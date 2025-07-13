@@ -68,7 +68,7 @@ Final Exam (50 %) — comprehensive; remote Sat 02 Aug 2025, 15:00 –�
 |    | Query Evaluation, Basics of Data Storage and Indexes | Midterm solutions [Recording](https://drive.google.com/file/d/1m-bwbCdi0Y_qkWXQZwzSbJLhuOEcMsL6/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec06.md) |  |
 |  5   |         Cost Estimation <br /> NoSQL Databases         | Indexes and Cost Estimation [Source](https://docs.google.com/document/d/1QuVwn00LeX-4E4oRlV2mb5YjeUqvPV9WNKAAraQHiTY/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1kyflzyQ2fNcT788px22lzQdJfTl1iN46/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec07.md) |  |
 |     | Conceptual Design | Homework Solutions |  | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6 |
-|    | BCNF, Transactions | Conseuptual Design practice [Source](https://drive.google.com/file/d/1ocF-qNILFQxcO8TYlTysBqkUToaGmoJu/view?usp=sharing) [Recording](https://drive.google.com/file/d/152DZHeLlKlEXD8i32Ts9XD8CPt7LmQPs/view?usp=sharing) | WQ4 due: RA and Conceptual Design <br />HW4 due: Conceptual Design | [Slides and recordings](./Lectures/lec09.md) |  |
+|    | BCNF | Conseuptual Design practice [Source](https://drive.google.com/file/d/1ocF-qNILFQxcO8TYlTysBqkUToaGmoJu/view?usp=sharing) [Recording](https://drive.google.com/file/d/152DZHeLlKlEXD8i32Ts9XD8CPt7LmQPs/view?usp=sharing) | WQ4 due: RA and Conceptual Design <br />HW4 due: Conceptual Design | [Slides and recordings](./Lectures/lec09.md) |  |
 
 
 ## Grading Scheme
