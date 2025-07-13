@@ -64,11 +64,11 @@ Final Exam (50 %) — comprehensive; remote Sat 02 Aug 2025, 15:00 –�
 |     |   Join and Aggregates in SQL    | SQL practice [Source](https://drive.google.com/file/d/1X36eBYnQMxogYF5CwWzA3il-Ao7xREtV/view?usp=sharing), [Recording](https://drive.google.com/file/d/11RqJk7MJBxEjcF_kgNONM5NC06p88u0O/view?usp=sharing) | | [Slides and recordings](./Lectures/lec02.md) | Sec. 6.1, 6.2 |
 |  2, 3   | Advanced SQL |  |   WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite   | [Slides and recordings](./Lectures/lec03.md) |  |
 |     |  Relational Algebra  |  | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates  | [Slides and recordings](./Lectures/lec04.md) |  |
-| 4  |       Midterm: Practice questions only – no formal exam will be administered       | Exam practice [Recording](https://drive.google.com/file/d/12PpW9o4fhKMvZrlc4WHSova-rd20gSd4/view?usp=sharing) | HW3 due: Advanced SQL |  |  |
+| 4  |       Midterm: Practice questions only – no formal exam will be administered       | Exam practice [Questions](https://docs.google.com/document/d/1c9D5GqyPH-GYksqE7dhdLAo0PMSeg-PczbCWT88bj0w/edit?tab=t.0) [Recording](https://drive.google.com/file/d/1n5sN5MroxI_1CuccBqm7SOavAOzzAv2Q/view?usp=sharing) |  |  |  |
 |    | Query Evaluation, Basics of Data Storage and Indexes | Midterm solutions [Recording](https://drive.google.com/file/d/1m-bwbCdi0Y_qkWXQZwzSbJLhuOEcMsL6/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec06.md) |  |
 |  5   |         Cost Estimation <br /> NoSQL Databases         | Indexes and Cost Estimation [Source](https://docs.google.com/document/d/1QuVwn00LeX-4E4oRlV2mb5YjeUqvPV9WNKAAraQHiTY/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1kyflzyQ2fNcT788px22lzQdJfTl1iN46/view?usp=sharing) |  | [Slides and recordings](./Lectures/lec07.md) |  |
 |     | Conceptual Design | Homework Solutions |  | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6 |
-|    | BCNF | Conseuptual Design practice [Source](https://drive.google.com/file/d/1ocF-qNILFQxcO8TYlTysBqkUToaGmoJu/view?usp=sharing) [Recording](https://drive.google.com/file/d/152DZHeLlKlEXD8i32Ts9XD8CPt7LmQPs/view?usp=sharing) | WQ4 due: RA and Conceptual Design <br />HW4 due: Conceptual Design | [Slides and recordings](./Lectures/lec09.md) |  |
+|    | BCNF | Conseuptual Design practice [Source](https://drive.google.com/file/d/1ocF-qNILFQxcO8TYlTysBqkUToaGmoJu/view?usp=sharing) [Recording](https://drive.google.com/file/d/152DZHeLlKlEXD8i32Ts9XD8CPt7LmQPs/view?usp=sharing) |HW3 due: Advanced SQL  WQ4 due: RA and Conceptual Design <br />HW4 due: Conceptual Design | [Slides and recordings](./Lectures/lec09.md) |  |
 
 
 ## Grading Scheme
